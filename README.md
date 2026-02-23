@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArciomMucha
-- 👀 I’m interested in C#, SQL, JS, React, Python
-- 🌱 I’m currently learning Python, SQL, JS, React
+- 👀 I’m interested in  Node.JS, React, SQL, Python, C#
+- 🌱 I’m currently learningNode.JS, React, SQL, Python
 - 📫 Reach me:
 - tg: @artem_fly_jr
 - insta: @arciom.mucha
